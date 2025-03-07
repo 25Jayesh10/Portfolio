@@ -27,9 +27,13 @@ const Footer = () => {
             <ul className="space-y-3">
               <li className="flex items-center">
                 <FaEnvelope className="mr-3 text-blue-400" />
-                <a href={`mailto:${contactInfo.email}`} className="hover:text-blue-400 transition-colors">
-                  {contactInfo.email}
-                </a>
+                <a
+              href={`https://mail.google.com/mail/?view=cm&fs=1&to=${contactInfo.email}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-blue-400 transition-colors"
+            >{contactInfo.email}
+            </a>
               </li>
               <li className="flex items-center">
                 <FaPhone className="mr-3 text-blue-400" />
@@ -110,7 +114,8 @@ const Footer = () => {
               </p>
             </div>
           </motion.div>
-        </div>      
+        </div>
+      
       </div>
     </footer>
   );
