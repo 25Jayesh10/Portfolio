@@ -45,10 +45,10 @@ const HeroSection = () => {
               <span className="block text-blue-400">P Jayesh Naidu</span>
             </h1>
             <p className="text-xl md:text-2xl mb-8 text-gray-300">
-              Full Stack Developer & Computer Engineering Student
+              Web Developer & Computer Engineering Student
             </p>
             <p className="text-gray-400 mb-8 max-w-lg">
-            I&apos;m passionate about creating innovative solutions through code. With expertise in multiple programming languages and platforms, I build responsive and user-friendly applications that solve real-world problems.
+            I&apos;m passionate about creating innovative solutions through code. With expertise in Web Designing and Web Development in multiple programming languages and platforms, I build responsive and user-friendly applications that solve real-world problems. I am also pursuing my intrest in UI/UX designing
             </p>
           </motion.div>
 
