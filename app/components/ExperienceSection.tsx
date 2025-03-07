@@ -25,7 +25,7 @@ const ExperienceSection = () => {
       icon: <FaCalendarAlt size={30} />,
     },
     {
-      title: "Organized a National Level Workshop – DBCE DreamBig",
+      title: "Organising a National Level Workshop – DBCE DreamBig",
       period: "Ongoing",
       description: "Currently leading the organization of a comprehensive workshop series aimed at bridging the gap between academic learning and industry requirements, featuring hands-on sessions on cutting-edge technologies.",
       icon: <FaLaptopCode size={30} />,
