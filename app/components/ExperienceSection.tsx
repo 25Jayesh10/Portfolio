@@ -33,7 +33,7 @@ const ExperienceSection = () => {
     {
       title: "Participated in a State Level Hackathon – Technothon, InternSpirit Hackathon",
       period: "February-March 2025",
-      description: "Developed a Smart Attendance System in Technothon, which automates the process of the traditional attendance system."
+      description: "Developed a Smart Attendance System in Technothon, which automates the process of the traditional attendance system which resulted in us coming in 2nd position. In InternSpirit Hackathon, developed a web application called Pawsnet:Stray Animal Welfare System, that can track stray animals and pets."
 ,
       icon: <RiCodeBoxFill size={30}/>,
     },
